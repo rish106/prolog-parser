@@ -1,0 +1,11 @@
+*.cmi
+*.cmo
+*.pro
+*.out
+*.zip
+main
+parser.*
+!parser.mly
+lexer.*
+!lexer.mll
+submit.sh
